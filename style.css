@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Gabarito', serif;
+    background-color: #FF7F50;
+    
+}
+
+.logo__1{
+    
+    border: solid black 1px;
+}
+.imgallery__line{
+    border-bottom: solid black 2px;
+    width: 600px;
+    margin-left: 350px;
+    margin-bottom: 30px;
+
+}
+
+.imgallery__title {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.imgallery__lib{
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.imgallery__lib img{
+    border: solid black 1px;
+    width: 20%;
+    height: 300px;
+}
