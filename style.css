@@ -16,9 +16,9 @@ body {
 .imgallery__line{
     border-bottom: solid black 2px;
     width: 600px;
-    margin-left: 350px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 30px;
-
 }
 
 .imgallery__title {
